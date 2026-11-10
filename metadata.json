@@ -1,0 +1,8 @@
+{
+  "name": "Radar de Proprietários — Connect Imóveis",
+  "description": "Plataforma inteligente de captação imobiliária direta com proprietários para a Connect Imóveis, cobrindo Porto Belo, Itapema, Bombinhas, Balneário Camboriú e região.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
